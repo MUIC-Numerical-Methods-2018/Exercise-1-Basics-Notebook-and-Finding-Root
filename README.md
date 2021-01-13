@@ -1,1 +1,1 @@
-[![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/MUIC-Numerical-Methods-2018/Exercise-1-Basics-Notebok-and-Finding-Root)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/MUIC-Numerical-Methods-2018/Exercise-1-Basics-Notebook-and-Finding-Root/blob/master/01%20Plotting%20and%20Finding%20Root.ipynb)
